@@ -1,0 +1,29 @@
+---
+students: 
+- name:  anil
+  phno: 8888888
+  address:  
+    - doorno: 534
+    - strest: 2nd
+    - state: TG
+    - pincode: 5000001
+    
+
+- name: suresh
+  phno: 777777777
+  address: 
+     - doorno: 534
+     - strest: 2nd
+     - state: TG
+     - pincode: 5000001
+    
+
+
+- name: geeta
+  phno: 666666666
+  address: 
+   - doorno: 534
+   - strest: 2nd
+   - state: TG
+   - pincode: 5000001
+    
