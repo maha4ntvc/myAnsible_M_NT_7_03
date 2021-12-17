@@ -12,5 +12,5 @@
   - name: i want to  install webserver on RedHat ansible node
     yum:
       name: httpd
-      sate: present
+      state: present
     when: ansible_os_family =="RedHat"
