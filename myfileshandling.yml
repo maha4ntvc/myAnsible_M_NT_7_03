@@ -10,6 +10,6 @@
     
   - name:  copy index file into ansible nodes side
     template:
-         src: index.j2
+         src: indenx.j2
          dest: /var/www/html/index.html
     
