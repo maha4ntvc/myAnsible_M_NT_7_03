@@ -4,9 +4,9 @@
   tasks:
   - name: i want to install git,tree.wget
     apt:
-      name: "{{ item }}"
+      name: "{{item}}"
       state: present
-    loops: 
+    loop: 
       - git
       - tree
       - wget 
